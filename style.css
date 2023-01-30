@@ -63,6 +63,13 @@ section {
     color: #000000;
 }
 
-footer {
-    margin-top: 12rem;
+.htb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+* footer {
+    margin-top: 7rem;
 }
